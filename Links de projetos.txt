@@ -1,0 +1,3 @@
+Site para cadastro de restaurantes que tenham opções para pessoas com restrições alimentares https://github.com/3mcp/Exp_Criativa
+Protótipo de site acima: https://www.figma.com/design/tCKHP1IfoErZsFVmErn4KY/Untitled?node-id=0-1&t=tihoMK2W5IT6Gzy5-1
+Protótipo de app de mapeamento de animais de corte: https://www.figma.com/design/T7So91tnypFSUXj470bahn/Untitled?t=tihoMK2W5IT6Gzy5-1
